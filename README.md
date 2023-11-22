@@ -1,8 +1,8 @@
 # **Predicción de la desatención de la demanda en España debido a la transición energética**
 
 Por:
-    Edward Alejandro Giraldo Gallón [github.com/edwardg17]
-    Mafredy Acevedo Holguin [github.com/mafredy95]
+- Edward Alejandro Giraldo Gallón [github.com/edwardg17]
+- Mafredy Acevedo Holguin [github.com/mafredy95]
 
 Este proyecto esta enfocado en el estudio y creación de varios algoritmos de Machine Learning para predecir la desatención de la demanda en España debido a la transición energética. Con base en la información disponible en el desafío "_EDSA Individual | Electricity Shortfall Challenge_" alojado en la pagina Kaggle.
 Como parte del trabajo final para la especialización en analítica y ciencia de datos de la Universidad de Antioquia.
